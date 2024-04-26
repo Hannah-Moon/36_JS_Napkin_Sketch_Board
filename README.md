@@ -15,7 +15,7 @@
 
 ## Problem to solve 🎯
 
-I developed this digital napkin sketch board with entrepreneurs in mind, recognizing the need for a portable solution to capture ideas on the fly. With this tool, I aim to empower fellow innovators to bring their visions to life anytime, anywhere, breaking free from the constraints of traditional pen and paper. I want to embrace limitless creativity and seizing every opportunity with their intuitive and convenient platform. <br>
+I developed this digital napkin sketch board with entrepreneurs in mind, recognizing the need for a portable solution to capture ideas on the fly. With this tool, I aim to empower fellow innovators to bring their visions to life anytime, anywhere, breaking free from the constraints of traditional pen and paper. I want to embrace limitless creativity and seize every opportunity with their intuitive and convenient platform. <br>
 
 
 ## Development Time ⏰
@@ -24,7 +24,7 @@ I developed this digital napkin sketch board with entrepreneurs in mind, recogni
 
 ## Live Demo 🎬
 
-> **Please click this link** : <br>
+> **Please click this link** : https://hannah-moon.github.io/36_JS_Napkin_Sketch_Board/<br>
 
 
 ## Tools 🛠️
