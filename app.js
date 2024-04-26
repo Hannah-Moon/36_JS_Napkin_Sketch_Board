@@ -4,6 +4,8 @@ const colors = document.getElementsByClassName("jsColor");
 const range = document.getElementById("jsRange");
 const mode = document.getElementById("jsMode");
 const saveBtn = document.getElementById("jsSave");
+const clearBtn = document.getElementById("jsClear");
+
 
 const INITIAL_COLOR = "2C2C2C";
 const CANVAS_SIZE = 700;
@@ -79,6 +81,11 @@ function handleSaveClick(event) {
     link.click();
 }
 
+function handleClearClick(event) {
+    // Clear the canvas
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+}
+
 if(canvas){
     canvas.addEventListener("mousemove",onMouseMove);
     canvas.addEventListener("mousedown", startPainting);
@@ -93,3 +100,4 @@ range.addEventListener("input",handleRangeChange);
 mode.addEventListener("click",handleModeClick);
 canvas.addEventListener("contextmenu", handleCM);
 saveBtn.addEventListener("click", handleSaveClick);
+clearBtn.addEventListener("click", handleClearClick);
