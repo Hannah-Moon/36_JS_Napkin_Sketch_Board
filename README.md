@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
-  From napkin to innovation: Sketch your dreams anytime, anywhere with our digital napkin sketch board!
+  From napkin to innovation: Sketch your dreams anytime, anywhere with a digital napkin sketch board!
 </h4>
 
 <div align="center">
